@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing.
 - 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me ... (No you don't)
+- 📫 How to reach me ... (No you won't)
 
 <!---
 OliverGrace/OliverGrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
